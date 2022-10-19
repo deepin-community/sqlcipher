@@ -1,0 +1,5 @@
+usr/include/sqlcipher/*.h
+usr/lib/*/libsqlcipher.a
+usr/lib/*/libsqlcipher.so
+usr/lib/*/libsqlcipher.la
+usr/lib/*/pkgconfig/sqlcipher.pc
